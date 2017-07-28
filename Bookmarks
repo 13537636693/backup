@@ -1,0 +1,587 @@
+{
+   "checksum": "8e85c9fec4ee6a5212ac8cf706dd1383",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13142941375788717",
+               "id": "6",
+               "meta_info": {
+                  "last_visited_desktop": "13143709728291876"
+               },
+               "name": "Overview (Spark 2.1.1 JavaDoc)",
+               "type": "url",
+               "url": "http://spark.apache.org/docs/latest/api/java/index.html"
+            }, {
+               "date_added": "13142941414933249",
+               "id": "8",
+               "meta_info": {
+                  "last_visited_desktop": "13142945576139737"
+               },
+               "name": "Spark：用Scala和Java实现WordCount - 白乔专栏 - 博客频道 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/bluejoe2000/article/details/41556979"
+            }, {
+               "date_added": "13143008977778323",
+               "id": "9",
+               "meta_info": {
+                  "last_visited_desktop": "13143008977778822"
+               },
+               "name": "Java8 Lambda表达式教程 - 自由之子 - 博客频道 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/ioriogami/article/details/12782141/"
+            }, {
+               "date_added": "13143024520630499",
+               "id": "10",
+               "meta_info": {
+                  "last_visited_desktop": "13143026867286398"
+               },
+               "name": "Java 8新特性终极指南 - ImportNew",
+               "type": "url",
+               "url": "http://www.importnew.com/11908.html"
+            }, {
+               "date_added": "13143025701077860",
+               "id": "11",
+               "meta_info": {
+                  "last_visited_desktop": "13143025701078347"
+               },
+               "name": "Java8初体验（二）Stream语法详解 | 并发编程网 – ifeve.com",
+               "type": "url",
+               "url": "http://ifeve.com/stream/"
+            }, {
+               "date_added": "13143027757546801",
+               "id": "12",
+               "meta_info": {
+                  "last_visited_desktop": "13143027757547386"
+               },
+               "name": "Java 8 的新特性和改进总览 - 技术翻译 - 开源中国社区",
+               "type": "url",
+               "url": "http://www.oschina.net/translate/everything-about-java-8?lang=chs&page=2#"
+            }, {
+               "date_added": "13143027933456247",
+               "id": "13",
+               "meta_info": {
+                  "last_visited_desktop": "13144215617531211"
+               },
+               "name": "JAVA8 十大新特性详解_java_脚本之家",
+               "type": "url",
+               "url": "http://www.jb51.net/article/48304.htm"
+            }, {
+               "date_added": "13143175814863910",
+               "id": "14",
+               "meta_info": {
+                  "last_visited_desktop": "13143175814864376"
+               },
+               "name": "Java 8新特性终极指南 - OPEN 开发经验库",
+               "type": "url",
+               "url": "http://www.open-open.com/lib/view/open1403232177575.html"
+            }, {
+               "date_added": "13143199512325695",
+               "id": "15",
+               "meta_info": {
+                  "last_visited_desktop": "13143275370461688"
+               },
+               "name": "Spark JAVA RDD API 最全合集整理，持续更新中~ - xiefu5hh的专栏 - 博客频道 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/xiefu5hh/article/details/51781074"
+            }, {
+               "date_added": "13143199517780069",
+               "id": "16",
+               "meta_info": {
+                  "last_visited_desktop": "13143199517780477"
+               },
+               "name": "RDD JAVA API 用法指南 - xiefu5hh的专栏 - 博客频道 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/xiefu5hh/article/details/51782319"
+            }, {
+               "date_added": "13143199579803775",
+               "id": "17",
+               "meta_info": {
+                  "last_visited_desktop": "13143202546503615"
+               },
+               "name": "spark 中的RDD编程 -以下基于Java api - ZHOU YANG - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/zhoudayang/p/5008010.html"
+            }, {
+               "date_added": "13143610693783360",
+               "id": "20",
+               "meta_info": {
+                  "last_visited_desktop": "13143622036258482"
+               },
+               "name": "Spark入门实战系列--6.SparkSQL（上）--SparkSQL简介 - shishanyuan - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/shishanyuan/p/4723604.html?utm_source=tuicool"
+            }, {
+               "date_added": "13143621609632763",
+               "id": "21",
+               "meta_info": {
+                  "last_visited_desktop": "13143621609633140"
+               },
+               "name": "SPARKSQL预研_百度文库",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/9bec3a2677c66137ee06eff9aef8941ea76e4b19.html?from=search"
+            }, {
+               "date_added": "13143625148946929",
+               "id": "22",
+               "meta_info": {
+                  "last_visited_desktop": "13143625148947334"
+               },
+               "name": "Spark性能优化：资源调优篇 - thinker1017 - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/hd-zg/p/6089207.html"
+            }, {
+               "date_added": "13143625754117986",
+               "id": "23",
+               "meta_info": {
+                  "last_visited_desktop": "13143625754118406"
+               },
+               "name": "Apache Spark 内存管理详解",
+               "type": "url",
+               "url": "http://www.sohu.com/a/131371382_609467"
+            }, {
+               "date_added": "13143625858928201",
+               "id": "24",
+               "meta_info": {
+                  "last_visited_desktop": "13143625858928383"
+               },
+               "name": "更多文档 | Spark编程指南 - 简体中文版",
+               "type": "url",
+               "url": "https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/more/spark-configuration.html"
+            }, {
+               "date_added": "13143635604059547",
+               "id": "27",
+               "meta_info": {
+                  "last_visited_desktop": "13143635604060005"
+               },
+               "name": "day83-透彻讲解使用Java方式实战Spark Streaming开发 - zhanglin200508的专栏 - 博客频道 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/zhanglin200508/article/details/52504404"
+            }, {
+               "date_added": "13143635767337456",
+               "id": "28",
+               "meta_info": {
+                  "last_visited_desktop": "13143635767337760"
+               },
+               "name": "Spark入门实战系列--7.Spark Streaming（上）--实时流计算Spark Streaming原理介绍 - shishanyuan - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/shishanyuan/p/4747735.html"
+            } ],
+            "date_added": "13142941386166724",
+            "date_modified": "13143889484665189",
+            "id": "7",
+            "name": "SPARK",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13143889484665189",
+               "id": "31",
+               "meta_info": {
+                  "last_visited_desktop": "13144130483436009"
+               },
+               "name": "java NIO详解 - ImportNew",
+               "type": "url",
+               "url": "http://www.importnew.com/22623.html"
+            }, {
+               "date_added": "13143889496830680",
+               "id": "33",
+               "meta_info": {
+                  "last_visited_desktop": "13144130472408471"
+               },
+               "name": "Java NIO 详解（一） - Heaven Wang 的专栏 - CSDN博客",
+               "type": "url",
+               "url": "http://blog.csdn.net/suifeng3051/article/details/48160753"
+            }, {
+               "date_added": "13143889502527537",
+               "id": "34",
+               "meta_info": {
+                  "last_visited_desktop": "13144130465461235"
+               },
+               "name": "深入理解Java NIO - Geason崔 - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/geason/p/5774096.html"
+            } ],
+            "date_added": "13143889492287897",
+            "date_modified": "13144322514088379",
+            "id": "32",
+            "name": "NIO",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13144322514088379",
+               "id": "37",
+               "meta_info": {
+                  "last_visited_desktop": "13144384390794071"
+               },
+               "name": "【张友源】高效团队特征内训课-教育-高清视频-爱奇艺",
+               "type": "url",
+               "url": "http://www.iqiyi.com/w_19rsepy559.html"
+            }, {
+               "date_added": "13144323417865033",
+               "id": "39",
+               "meta_info": {
+                  "last_visited_desktop": "13144386989626134"
+               },
+               "name": "【张友源】有效团队建立讲堂-教育-高清视频-爱奇艺",
+               "type": "url",
+               "url": "http://www.iqiyi.com/w_19rseoc8xl.html"
+            }, {
+               "date_added": "13144399806314861",
+               "id": "42",
+               "meta_info": {
+                  "last_visited_desktop": "13144399806315075"
+               },
+               "name": "曹子祥-如何有效实施战略性绩效管理07-09_(new)—在线播放—优酷网，视频高清在线观看",
+               "type": "url",
+               "url": "http://v.youku.com/v_show/id_XNzk5OTA4NTA0.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2"
+            } ],
+            "date_added": "13144322523774008",
+            "date_modified": "13144409383857668",
+            "id": "38",
+            "name": "管理",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13144409383857668",
+               "id": "43",
+               "meta_info": {
+                  "last_visited_desktop": "13144409383858503"
+               },
+               "name": "想创业？这9个坑一定要迈过 - 创业,投资 - IT之家",
+               "type": "url",
+               "url": "https://www.ithome.com/html/it/201347.htm"
+            }, {
+               "date_added": "13144409400953682",
+               "id": "45",
+               "meta_info": {
+                  "last_visited_desktop": "13144751867685042"
+               },
+               "name": "创业公司的20种死法：总有一种不小心戳中你 - 创业 - IT之家",
+               "type": "url",
+               "url": "https://www.ithome.com/html/it/230979.htm"
+            }, {
+               "date_added": "13144409711602006",
+               "id": "46",
+               "meta_info": {
+                  "last_visited_desktop": "13144748068197473"
+               },
+               "name": "30岁IT男从公司辞职到创业的过程分享(长文)-最代码",
+               "type": "url",
+               "url": "http://www.zuidaima.com/blog/2623813596777472.htm"
+            }, {
+               "date_added": "13144410465130623",
+               "id": "47",
+               "meta_info": {
+                  "last_visited_desktop": "13144410465130787"
+               },
+               "name": "软件工程师的创业陷阱-接私活_IT新闻_博客园",
+               "type": "url",
+               "url": "https://news.cnblogs.com/n/522275/"
+            }, {
+               "date_added": "13144411798403282",
+               "id": "48",
+               "meta_info": {
+                  "last_visited_desktop": "13144411798403459"
+               },
+               "name": "讲述一个华为公司的人-辞职后创业的几个感想 — IT那些事 | 关注互联网那些事",
+               "type": "url",
+               "url": "http://www.itnxs.com/503.html"
+            }, {
+               "date_added": "13144412561261581",
+               "id": "49",
+               "meta_info": {
+                  "last_visited_desktop": "13144751153907352"
+               },
+               "name": "李开复：特别聪明的人反而不太适合创业 - 李开复,创业,大学生 - IT之家",
+               "type": "url",
+               "url": "https://www.ithome.com/html/it/175754.htm"
+            }, {
+               "date_added": "13144743994938067",
+               "id": "52",
+               "meta_info": {
+                  "last_visited_desktop": "13144751783815053"
+               },
+               "name": "听了这9个坑爹的故事 你还会坚持创业吗？_创业&资本 - 前瞻网",
+               "type": "url",
+               "url": "http://www.qianzhan.com/investment/detail/318/160118-a1724249.html"
+            }, {
+               "date_added": "13144746363739404",
+               "id": "53",
+               "meta_info": {
+                  "last_visited_desktop": "13144746363739840"
+               },
+               "name": "创业小项目_白手起家创业点子_年轻人如何创业 - 英盛网",
+               "type": "url",
+               "url": "http://www.yingsheng.com/news/78"
+            } ],
+            "date_added": "13144409396487630",
+            "date_modified": "13144844441170418",
+            "id": "44",
+            "name": "创业",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13144844441170418",
+               "id": "56",
+               "meta_info": {
+                  "last_visited_desktop": "13145339352157737"
+               },
+               "name": "从直播CDN的原理说起，谈如何解决延时和连麦的老难题？_聊聊架构",
+               "type": "url",
+               "url": "http://www.onesheng.cn/news/97577.html"
+            }, {
+               "date_added": "13144904778402496",
+               "id": "60",
+               "meta_info": {
+                  "last_visited_desktop": "13144904778402860"
+               },
+               "name": "1.2 CDN的基本工作过程 - 51CTO.COM",
+               "type": "url",
+               "url": "http://book.51cto.com/art/201205/338756.htm"
+            }, {
+               "date_added": "13144931609453619",
+               "id": "61",
+               "meta_info": {
+                  "last_visited_desktop": "13145337665747873"
+               },
+               "name": "HttpDNS 服务详解 – 运维生存时间",
+               "type": "url",
+               "url": "http://www.ttlsa.com/web/httpdns-detailed-service/"
+            } ],
+            "date_added": "13144844453117008",
+            "date_modified": "13144931609453619",
+            "id": "57",
+            "name": "CDN",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13145423710774961",
+               "id": "65",
+               "meta_info": {
+                  "last_visited_desktop": "13145441714473806"
+               },
+               "name": "SOA和微服务架构的区别？ - 知乎",
+               "type": "url",
+               "url": "https://www.zhihu.com/question/37808426"
+            }, {
+               "date_added": "13145441669859544",
+               "id": "68",
+               "meta_info": {
+                  "last_visited_desktop": "13145442453502655"
+               },
+               "name": "架构设计师与 SOA ， 第 2 部分",
+               "type": "url",
+               "url": "https://www.ibm.com/developerworks/cn/webservices/ws-arcsoa2/"
+            }, {
+               "date_added": "13145441743069618",
+               "id": "69",
+               "meta_info": {
+                  "last_visited_desktop": "13145442426472884"
+               },
+               "name": "微服务与SOA的实践应用对比",
+               "type": "url",
+               "url": "http://geek.csdn.net/news/detail/51826"
+            } ],
+            "date_added": "13145423694134272",
+            "date_modified": "13145445840080131",
+            "id": "64",
+            "name": "微服务",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13145424284112323",
+               "id": "66",
+               "meta_info": {
+                  "last_visited_desktop": "13145424284112587"
+               },
+               "name": "云计算四层分——IaaS、PaaS、SaaS、DaaS - 云技术分享 - 深信服社区",
+               "type": "url",
+               "url": "http://bbs.sangfor.com.cn/forum.php?mod=viewthread&tid=32598&page=1"
+            }, {
+               "date_added": "13145524366536177",
+               "id": "72",
+               "meta_info": {
+                  "last_visited_desktop": "13145524366536588"
+               },
+               "name": "Hbase学习总结_百度文库",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/196a77f1a216147916112832.html?from=search"
+            }, {
+               "date_added": "13145524378578572",
+               "id": "73",
+               "meta_info": {
+                  "last_visited_desktop": "13145532330347801"
+               },
+               "name": "分布系统设计的CAP理论简介_图文_百度文库",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/98f88b774b73f242336c5fe0.html?from=search"
+            }, {
+               "date_added": "13145526443409916",
+               "id": "74",
+               "meta_info": {
+                  "last_visited_desktop": "13145526443410471"
+               },
+               "name": "HBase应用场景、原理、基本架构及使用方法_图文_百度文库",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/e924eb2b998fcc22bcd10dc2.html?from=search"
+            } ],
+            "date_added": "13145424313205870",
+            "date_modified": "13145526443409916",
+            "id": "67",
+            "name": "架构",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13145445840080131",
+               "id": "70",
+               "meta_info": {
+                  "last_visited_desktop": "13145445840080291"
+               },
+               "name": "史上最全Docker资料集粹",
+               "type": "url",
+               "url": "http://special.csdncms.csdn.net/BeDocker/"
+            } ],
+            "date_added": "13145445852293761",
+            "date_modified": "13145524366536177",
+            "id": "71",
+            "name": "DOCKER",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13145526453394951",
+            "date_modified": "13145526453394952",
+            "id": "75",
+            "name": "HBASE",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13145533874893035",
+               "id": "76",
+               "meta_info": {
+                  "last_visited_desktop": "13145533874894768"
+               },
+               "name": "分布式系统理论基础 - CAP - bangerlee - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/bangerlee/p/5328888.html"
+            } ],
+            "date_added": "13145533882120634",
+            "date_modified": "13145619832438882",
+            "id": "77",
+            "name": "CAP",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13145619832438882",
+               "id": "80",
+               "meta_info": {
+                  "last_visited_desktop": "13145696665609379"
+               },
+               "name": "DDD DCI和领域事件 -解道Jdon",
+               "type": "url",
+               "url": "http://www.jdon.com/jdonframework/dci.html"
+            } ],
+            "date_added": "13145619851884904",
+            "date_modified": "13145685871061070",
+            "id": "81",
+            "name": "架构-DCI",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13145685871061070",
+               "id": "82",
+               "meta_info": {
+                  "last_visited_desktop": "13145685871061575"
+               },
+               "name": "我用减掉100斤的亲身经历告诉大家最正确的减肥方法 - 知乎专栏",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/26436545"
+            } ],
+            "date_added": "13145685879485071",
+            "date_modified": "13145700825107760",
+            "id": "83",
+            "name": "减肥",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13145700825107760",
+               "id": "86",
+               "meta_info": {
+                  "last_visited_desktop": "13145700825107914"
+               },
+               "name": "1 Kafka概念和架构 - BYRHuangQiang - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/byrhuangqiang/p/6364088.html"
+            }, {
+               "date_added": "13145701266691858",
+               "id": "90",
+               "meta_info": {
+                  "last_visited_desktop": "13145701400136792"
+               },
+               "name": "Kafka：架构简介【转】 - XGogo - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/seaspring/p/6138080.html"
+            }, {
+               "date_added": "13145701276451605",
+               "id": "91",
+               "meta_info": {
+                  "last_visited_desktop": "13145701276451751"
+               },
+               "name": "Apache kafka 工作原理介绍",
+               "type": "url",
+               "url": "https://www.ibm.com/developerworks/cn/opensource/os-cn-kafka/index.html"
+            }, {
+               "date_added": "13145703489287532",
+               "id": "92",
+               "meta_info": {
+                  "last_visited_desktop": "13145703489287773"
+               },
+               "name": "redis 主从集群说明及配置 - 深呼吸再出击 - 51CTO技术博客",
+               "type": "url",
+               "url": "http://ckl893.blog.51cto.com/8827818/1769094"
+            } ],
+            "date_added": "13145700839114053",
+            "date_modified": "13145703489287532",
+            "id": "87",
+            "name": "KAFKA",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13145700857537756",
+               "id": "88",
+               "meta_info": {
+                  "last_visited_desktop": "13145700857537891"
+               },
+               "name": "Redis 3.2.1集群搭建 - sunney - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/yuanermen/p/5717885.html"
+            } ],
+            "date_added": "13145700866255904",
+            "date_modified": "13145701266691858",
+            "id": "89",
+            "name": "REDIS",
+            "type": "folder"
+         } ],
+         "date_added": "13142938709390397",
+         "date_modified": "13145533874893035",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13142938709391134",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13142938709391142",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
